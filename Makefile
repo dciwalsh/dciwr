@@ -92,7 +92,8 @@ install :
 
 ## --- Build
 build :
-	make doc; make vig;  make install
+	make doc; make install
+#	make doc; make vig;  make install
 
 ## --- Rebuild, upload to git
 update :
